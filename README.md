@@ -19,19 +19,16 @@ $ cd Django-ToDo
 # Vá para a pasta ToDo
 $ cd ToDo
 
-# rode o comando para a criação de um ambiente virtual:
+# Execute o comando para a criação de um ambiente virtual:
 $ python -m pip venv todo
 
-# ative sua venv:
+# Ative sua venv:
 $ source todo/bin/activate
 
 # Instale as dependencias que estão no arquivo requeriments.txt na pasta ToDO.
-$ pip install requeriments.txt
+$ pip install -r requeriments.txt
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# agora na pasta ToDo
+# Execute o comando para ativar a aplicação:
 $ python manage.py runserver
 
 # O servidor inciará na porta:8000 - acesse http://127.0.0.1:8000 
@@ -43,6 +40,8 @@ $ python manage.py runserver
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Django/Python</li>
+  <li>SQLite</li>
+  
 </ul>
  📝 Licença
 

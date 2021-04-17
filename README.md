@@ -7,20 +7,36 @@ Um todo feito com django/python, realizando CRUD de tarefas.
   <img align='center' src="./assets/todo1.png" height="300">
   <img align='center' src="./assets/todo2.png" height="350" >
 <h2>Como Executar o projeto 🚀</h2>
-clone este repositorio:
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
-Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
-Vá para a pasta ToDo
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:SMarkus27/Django-ToDo.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Django-ToDo
+
+# Vá para a pasta ToDo
 $ cd ToDo
-rode o comando para a criação de um ambiente virtual:
+
+# rode o comando para a criação de um ambiente virtual:
 $ python -m pip venv todo
-ative sua venv:
+
+# ative sua venv:
 $ source todo/bin/activate
-Instale as dependencias que estão no arquivo requeriments.txt na pasta ToDO.
+
+# Instale as dependencias que estão no arquivo requeriments.txt na pasta ToDO.
 $ pip install requeriments.txt
-agora na pasta ToDo
-rode python manage.py runserver
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# agora na pasta ToDo
+$ python manage.py runserver
+
+# O servidor inciará na porta:8000 - acesse http://127.0.0.1:8000 
+
+```
 
 <h2>Tecnologias usadas</h2>
 <ul>

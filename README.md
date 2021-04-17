@@ -22,7 +22,7 @@ $ cd ToDo
 # Run the command to create a virtualenv:
 $ python -m pip venv todo
 
-# Active the venv:
+# Activate the venv:
 $ source todo/bin/activate
 
 # Install all dependencies in the requeriments.txt file.

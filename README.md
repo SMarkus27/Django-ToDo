@@ -35,7 +35,7 @@ $ python manage.py runserver
 
 ```
 
-<h2>Techs Stack:</h2>
+<h2>Tech Stack:</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>

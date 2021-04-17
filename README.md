@@ -1,41 +1,41 @@
 <p align="center">
   <img align='center' src="./assets/SMarkus.png" height="300">
 </p>
-<h1 align='center'>🚀 Um todo em Django 🚀 </h1>
-Um todo feito com django/python, realizando CRUD de tarefas.
+<h1 align='center'>🚀 A Django ToDo 🚀 </h1>
+A ToDo Django/python, create,edit and delete tasks.
 <h2>Layout</h2>
   <img align='center' src="./assets/todo1.png" height="300">
   <img align='center' src="./assets/todo2.png" height="350" >
-<h2>Como Executar o projeto 🚀</h2>
+<h2>How to run this repo: 🚀</h2>
 
 ```bash
 
-# Clone este repositório
+# Clone this repo
 $ git clone git@github.com:SMarkus27/Django-ToDo.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Open the project folder in the terminal/cmd
 $ cd Django-ToDo
 
-# Vá para a pasta ToDo
+# Open the ToDo folder
 $ cd ToDo
 
-# Execute o comando para a criação de um ambiente virtual:
+# Run the command to create a virtualenv:
 $ python -m pip venv todo
 
-# Ative sua venv:
+# Active the venv:
 $ source todo/bin/activate
 
-# Instale as dependencias que estão no arquivo requeriments.txt na pasta ToDO.
+# Install all dependencies in the requeriments.txt file.
 $ pip install -r requeriments.txt
 
-# Execute o comando para ativar a aplicação:
+# Run the command to activate the application:
 $ python manage.py runserver
 
-# O servidor inciará na porta:8000 - acesse http://127.0.0.1:8000 
+# The server starts at the port:8000 - go to http://127.0.0.1:8000 
 
 ```
 
-<h2>Tecnologias usadas</h2>
+<h2>Techs Stack:</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -43,8 +43,8 @@ $ python manage.py runserver
   <li>SQLite</li>
   
 </ul>
- 📝 Licença
+ 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under license [MIT](./LICENSE).
 
-Feito  por Marcus Vinicius 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcus-vinicius-campos=pereira)
+Made by Marcus Vinicius 👋🏽 [Get in touch!](https://www.linkedin.com/in/marcus-vinicius-campos=pereira)
